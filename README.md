@@ -9,6 +9,7 @@ Companies
 | Facebook   | Tech |   |
 | Amazon | Tech |   |
 | Microsoft | Tech   |   |
+| Apple | Tech   |   |
 | Twitter  | Tech |   |
 | Uber | Tech |   |
 | Equifax | Credit score |   |
